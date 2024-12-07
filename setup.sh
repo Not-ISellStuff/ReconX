@@ -1,11 +1,9 @@
 #!/bin/bash
 
 libs=(
-    numpy
-    pandas
-    matplotlib
+    argparse
     requests
-    flask
+    colorama
 )
 
 for lib in "${libs[@]}"; do
