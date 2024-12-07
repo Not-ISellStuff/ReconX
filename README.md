@@ -8,8 +8,7 @@ Basic tool for web penetration.
 2. Open setup.bat
 
 **Linux**
-
-**run the following commands in a terminal**
+**run the following commands in a terminal:**
 ```
 1. git clone https://github.com/Not-ISellStuff/ReconX
 2. cd ReconX
