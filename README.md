@@ -31,6 +31,6 @@ Basic tool for web penetration.
 **Command Examples**
 
 ```
-**Windows: python reconx.py -u https://website.com**
-**Linux: python3 reconx.py -u https://website.com**
+Windows: python reconx.py -u https://website.com
+Linux: python3 reconx.py -u https://website.com
 ```
