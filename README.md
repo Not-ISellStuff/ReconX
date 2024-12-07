@@ -10,10 +10,12 @@ Basic tool for web penetration.
 **Linux**
 
 **run the following commands in a terminal**
+```
 1. git clone https://github.com/Not-ISellStuff/ReconX
 2. cd ReconX
 3. chmod +x setup.sh
 4. ./setup.sh
+```
 
 **After all this now you can use ReconX**
 
