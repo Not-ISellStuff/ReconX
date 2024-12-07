@@ -8,7 +8,6 @@ libs=(
     flask
 )
 
-echo "Installing Python libraries..."
 for lib in "${libs[@]}"; do
     pip install "$lib"
 done
