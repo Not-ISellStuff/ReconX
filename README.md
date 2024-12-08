@@ -1,5 +1,5 @@
 # ReconX
-Basic recon tool for web penetration. When you save scans they are saved in data.txt
+Basic web penetration tool for recon. When you save scans they are saved in data.txt
 
 # Setup
 
