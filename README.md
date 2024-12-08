@@ -1,4 +1,4 @@
-# ReconX
+# ReconX Version 1.0
 Basic web penetration tool for recon. When you save scans they are saved in data.txt
 
 # Setup
