@@ -8,6 +8,10 @@
 #  |__________________________________________________________| 
 
 #
+#    Version 1.0
+#
+
+#
 #   Command Example:
 #
 #   python reconx.py https://website.com
