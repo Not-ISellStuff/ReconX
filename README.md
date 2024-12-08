@@ -34,3 +34,7 @@ Basic tool for web penetration.
 Windows: python reconx.py -u https://website.com
 Linux: python3 reconx.py -u https://website.com
 ```
+
+![image](https://github.com/user-attachments/assets/0c4f8220-2b94-4a20-8c0e-ea2aa8d783e3)
+
+![image](https://github.com/user-attachments/assets/6df39f47-5c5d-4399-a200-5562f458a328)
